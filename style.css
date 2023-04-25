@@ -1,0 +1,42 @@
+.div-border {
+    border: 2px solid gray;
+    margin-bottom: 10px;
+}
+
+.blue {
+    background-color: #0000ff;
+    color: white;
+    display: inline-block;
+    width: 32%;
+    height: 100px;
+    text-align: center;
+    
+}
+
+.red {
+    background-color: #ff0000;
+    color: white;
+    display: inline-block;
+    width: 32%;
+    height: 100px;
+    text-align: center;
+}
+
+.green {
+    background-color: #008000;
+    color: white;
+    display: inline-block;
+    width: 32%;
+    height: 100px;
+    text-align: center;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.color-container, .colors-heading{
+    margin: 1%;
+}
