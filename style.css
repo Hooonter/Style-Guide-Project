@@ -1,6 +1,7 @@
 .div-border {
     border: 2px solid gray;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 35px;
 }
 
 .blue {
@@ -37,6 +38,73 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.color-container, .colors-heading{
+.color-container, .colors-heading {
     margin: 1%;
 }
+
+.font-header {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 100;
+}
+
+.montserrat {
+    width: 32%;
+    height: 100px;
+    display: inline-block;
+}
+
+.montserrat-regular {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.montserrat-bold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.montserrat-italics {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+
+.ysabeau {
+    width: 32%;
+    height: 100px;
+    display: inline-block;
+}
+
+.ysabeau-regular {
+    font-family: 'Ysabeau', sans-serif;
+}
+
+.ysabeau-bold {
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: bold;
+}
+
+.ysabeau-italics {
+    font-family: 'Ysabeau', sans-serif;
+    font-style: italic;
+}
+
+.lato {
+    width: 32%;
+    height: 100px;
+    display: inline-block;
+}
+
+.lato-regular {
+    font-family: 'Lato', sans-serif;
+}
+
+.lato-bold {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.lato-italics {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+
