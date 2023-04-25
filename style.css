@@ -48,6 +48,7 @@ body {
     font-weight: 100;
 }
 
+/* Montserrat Font Styling */
 .montserrat {
     width: 32%;
     height: 100px;
@@ -68,6 +69,7 @@ body {
     font-style: italic;
 }
 
+/* Ysabeau Font Styling */
 .ysabeau {
     width: 32%;
     height: 100px;
@@ -88,6 +90,7 @@ body {
     font-style: italic;
 }
 
+/* Lato font styling */
 .lato {
     width: 32%;
     height: 100px;
@@ -108,3 +111,26 @@ body {
     font-style: italic;
 }
 
+/* Text Styles Start */
+.header-example {
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'Lato', sans-serif;
+}
+
+/* List Styling */
+li {
+    margin: 6px;
+}
+
+.h2-heading {
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.paragraph-text {
+    font-size: 18px;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: 400;
+}
